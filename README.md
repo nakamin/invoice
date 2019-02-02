@@ -15,7 +15,7 @@ number 0 then you will need to change the `num.txt` file.
 ## Running
 This is a commandline tool. You run it just like any other
 python script, but you will need some packages installed.
-The dependencies are: `mailmerge` and `comtypes`. The first
+The dependencies are: `docx-mailmerge` and `comtypes`. The first
 is used to insert the inputted quantities into the word document,
 and the second is used to convert the Word document to a PDF.
 I would suggest that you setup a virtual env so that installing
